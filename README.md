@@ -6,7 +6,13 @@
 
 <h3 align="center"> Frontend Mentor - QR Code Component</h3>
 
-<p align="center">![Design preview for the QR code component coding challenge]</p>
+---
+
+<p align="center">[Design preview for the QR code component coding challenge]</p>
+
+![screenshot](design/desktop-design.jpg)<br>
+
+---
 
 <h3 align="center">Welcome! 👋</h3>
 
