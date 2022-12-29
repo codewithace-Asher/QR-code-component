@@ -14,6 +14,12 @@
 
 ---
 
+<p align="center">[The Result]</p>
+
+![screenshot](images/portfolio-00.jpg)<br>
+
+---
+
 <h3 align="center">Welcome! 👋</h3>
 
 <p align="center">Thanks for checking out this front-end coding challenge.</p>
