@@ -14,10 +14,10 @@
 
 ---
 
-<p align="right">[The Result]</p>
+<p align="center">[The Result]</p>
 
 ![screenshot](images/final-result.jpg)<br>
-
+<img src="images/final-result.jpg">
 ---
 
 <h3 align="center">Languages and Tools:</h3>
