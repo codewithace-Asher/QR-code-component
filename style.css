@@ -41,3 +41,9 @@ body {
 	font-weight: 400;
 	font-family: 'Outfit', sans-serif;
 }
+
+.attribution {
+	position: absolute;
+	top: 1050px;
+	left: 1170px
+}
