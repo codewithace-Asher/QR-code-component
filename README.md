@@ -16,7 +16,7 @@
 
 <p align="center">[The Result]</p>
 
-![screenshot](images/portfolio-00.jpg)<br>
+![screenshot](images/final-result.jpg)<br>
 
 ---
 
