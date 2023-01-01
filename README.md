@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center">[The Result]</p>
+<p align="right">[The Result]</p>
 
 ![screenshot](images/final-result.jpg)<br>
 
