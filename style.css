@@ -1,0 +1,39 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #D5E1EF;
+}
+
+.container {
+	position: absolute;
+	top: 450px;
+	left: 1200px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	height: 500px;
+	width: 310px
+}
+
+.container img {
+	height: 305px;
+	width: 310px;
+	border-radius: 10px;
+}
+
+.container h2 {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #283953;
+}
+
+.container p {
+	text-align: center;
+	font-size: 17px;
+	color: #ACB0BB;
+	font-weight: 400;
+}
