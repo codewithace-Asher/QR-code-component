@@ -15,9 +15,7 @@
 ---
 
 <p align="center">[The Result]</p>
-
-![screenshot](images/final-result.jpg)<br>
-<img src="images/final-result.jpg">
+<img src="images/final-result.jpg" align="center">
 ---
 
 <h3 align="center">Languages and Tools:</h3>
